@@ -92,7 +92,7 @@ FRONTEND_URL=http://localhost:2001
 
 EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=465
-EMAIL_AUTH_USER=sumitkumarshaab@gmail.com
+EMAIL_AUTH_USER=your_email_address
 EMAIL_AUTH_PASS=your_email_app_password
 ```
 
